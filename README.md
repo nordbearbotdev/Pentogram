@@ -48,3 +48,5 @@
 ./src/main.py --debug
 
 ```
+
+# API
