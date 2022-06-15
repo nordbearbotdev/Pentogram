@@ -14,7 +14,7 @@
 
 
 # Что такое Pentogram?
-[Pentogram](https://github.com/nordbearbotdev/Pentogram) - это приложение для мгновенного обмена сообщениями.
+[Pentogram](https://github.com/nordbearbotdev/Pentogram) - это приложение для анонимного и безопасного мгновенного обмена сообщениями.
 
 
 # Содержание
