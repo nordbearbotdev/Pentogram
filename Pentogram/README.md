@@ -15,3 +15,6 @@
 
 # Что такое Pentogram?
 [Pentogram](https://github.com/nordbearbotdev/Pentogram) - это приложение для мгновенного обмена сообщениями.
+
+# Об этом разделе
+Раздел Pentogram - исходный код версий Pentogram для Windows, MacOS и Linux.
