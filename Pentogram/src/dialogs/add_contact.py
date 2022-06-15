@@ -2,8 +2,8 @@ import asyncio
 
 import aioxmpp
 
-import jclib.client
-import jclib.identity
+import pglib.client
+import pglib.identity
 
 from .. import Qt, utils, models
 from ..ui import dlg_add_contact
