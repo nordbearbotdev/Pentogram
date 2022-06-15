@@ -38,7 +38,7 @@
 * Управление учетными записями
 
 # Запуск
-# MacOSX & Linux
+## MacOSX & Linux
 
 ```shell
 ./src/main.py --debug
