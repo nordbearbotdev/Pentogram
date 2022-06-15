@@ -4,9 +4,9 @@ import PyQt5.Qt as Qt
 
 import aioxmpp
 
-import jclib.client
-import jclib.config
-import jclib.identity
+import pglib.client
+import pglib.config
+import pglib.identity
 
 from .. import utils, models
 
